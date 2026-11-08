@@ -1,0 +1,836 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "tarifs": "Pricing",
+      "atelier": "The Atelier",
+      "catalogue": "Catalogue",
+      "shop": "Shop",
+      "cart": "Cart",
+      "reserver": "Book",
+      "homeAria": "Dayo Styles — Home"
+    },
+    "home": {
+      "heroEyebrow": "House of braids · By appointment",
+      "heroSubtitle": "The art of braiding at its finest — a ritual of care for your crown.",
+      "ctaBook": "Book an Appointment",
+      "ctaServices": "Discover our services",
+      "introTitle": "The ritual begins with listening.",
+      "introSubtitle": "A sitting is a long-format ritual. Plan for the morning.",
+      "value1Title": "Hand-finished",
+      "value1Desc": "Every braid placed with architectural care.",
+      "value2Title": "By appointment",
+      "value2Desc": "Your time is precious; we respect it strictly.",
+      "popularEyebrow": "Popular",
+      "servicesTitle": "OUR SERVICES",
+      "allServices": "View all services →",
+      "from": "From",
+      "viewStyle": "View style",
+      "viewCatalogue": "View the catalogue",
+      "stylistEyebrow": "The Stylist",
+      "stylistBio": "Over ten years of experience in the art of braiding. Specialized in protective techniques and invisible finishes, Leslie approaches every head as a unique work of art.",
+      "learnMore": "Learn more →",
+      "finalCtaTitle": "BOOK AN APPOINTMENT",
+      "finalCtaSubtitle": "Choose your service. Pay the deposit. We handle the rest.",
+      "bookNow": "Book now",
+      "shopTitle": "Shop Hair Products",
+      "shopSubtitle": "Shop premium curls, extensions and hair essentials to complete your look.",
+      "shopAll": "Shop all products",
+      "shopItemCta": "View product"
+    },
+    "services": {
+      "eyebrow": "The Catalogue",
+      "title": "OUR SERVICES",
+      "subtitle": "Knotless. French Curl. Twists. Locs. Cornrows. Hand-finished, every time.",
+      "from": "from",
+      "startingAt": "from",
+      "extLength": "Extensions:",
+      "deposit": "Required deposit (35%):",
+      "depositFrom": "from",
+      "goodToKnow": "Good to Know",
+      "bookThisStyle": "Book this style",
+      "addonsTitle": "ADD-ONS / EXTRAS",
+      "addons": [
+        {
+          "name": "Boho hair extra",
+          "detail": "/ extra per bundle (beyond 4) · 30min"
+        },
+        {
+          "name": "Blow-dry",
+          "detail": "on request · 20min"
+        },
+        {
+          "name": "Extra length",
+          "detail": "beyond Waist length · 45min"
+        },
+        {
+          "name": "Curls on sew-in",
+          "detail": "on request · 40min"
+        }
+      ]
+    },
+    "tarifs": {
+      "eyebrow": "Transparency",
+      "title": "PRICING",
+      "subtitle": "A 35% deposit is required at booking to secure your sitting.",
+      "colCategory": "Category",
+      "colVariant": "Variant",
+      "colPrice": "Price (CAD)",
+      "colDeposit": "Deposit 35%",
+      "colDuration": "Duration",
+      "colExtensions": "Extensions",
+      "noteTitle": "Important note",
+      "notes": [
+        "The 35% deposit is required to confirm each appointment.",
+        "For Cornrows and Sew-in: price on quote, DM before booking.",
+        "Extensions are provided by the client (unless otherwise stated)."
+      ],
+      "addonsTitle": "Extras",
+      "addons": [
+        {
+          "label": "Boho hair extra (per bundle > 4)",
+          "price": "15$"
+        },
+        {
+          "label": "Blow-dry (on request)",
+          "price": "25$"
+        },
+        {
+          "label": "Extra length (> Waist)",
+          "price": "30$"
+        },
+        {
+          "label": "Curls on sew-in",
+          "price": "30$"
+        }
+      ],
+      "cta": "View the catalogue & book"
+    },
+    "styliste": {
+      "eyebrow": "The Signature",
+      "title": "THE ATELIER",
+      "subtitle": "Leslie, her creations and her availability.",
+      "quote1": "\"Braiding is a silent language. It is an architecture that respects the life of the hair.\"",
+      "bio": "Trained at the finest African hairdressing schools, Leslie has refined her art for over a decade. Her vision: to blend ancestral techniques with contemporary luxury trends.",
+      "quote2": "\"Squeeze in available. Just dm me to confirm.\"",
+      "ctaBook": "Book with Leslie",
+      "availEyebrow": "By appointment",
+      "availTitle": "AVAILABILITY",
+      "availSubtitle": "Opening hours of Leslie's atelier.",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "hours": [
+        "5:00 PM → 11:30 PM",
+        null,
+        "5:00 PM → 11:30 PM",
+        "5:00 PM → 11:30 PM",
+        "5:00 PM → 11:30 PM",
+        "7:00 AM → 10:00 PM",
+        "7:00 AM → 7:00 PM"
+      ],
+      "closedLabel": "Closed",
+      "bufferLabel": "Buffer between appts",
+      "bufferValue": "30 min",
+      "minNoticeLabel": "Min. booking notice",
+      "minNoticeValue": "24 h",
+      "lastMinute": "A last-minute slot? DM me and I confirm based on my availability.",
+      "cta": "Choose a style & book"
+    },
+    "reservation": {
+      "eyebrow": "The Ritual",
+      "title": "BOOK",
+      "subtitle": "Choose your service, your date and pay the deposit. Everything is confirmed live.",
+      "yourBooking": "Your booking",
+      "styleInterest": "Style you're interested in",
+      "chooseDateBelow": "Choose your date and time slot below.",
+      "selectSizeFirst": "First select your size to display availability.",
+      "selectInMenu": "Select it below in the service menu to finalize your booking.",
+      "customEyebrow": "Custom booking",
+      "customTextPre": "For the ",
+      "customTextPost": " style, the price varies with your design. Contact Leslie before booking to confirm the details — by email or phone:",
+      "chooseSize": "Choose your size",
+      "chooseVariant": "Choose your variant",
+      "selectVariantFirst": "First select your variant to display availability.",
+      "selectVariantToSeeCal": "Select a variant above to see the calendar.",
+      "bookingPrefix": "Booking — ",
+      "selectSizeToSeeCal": "Select a size above to see the calendar.",
+      "backToCatalogue": "← Back to catalogue",
+      "backToBooking": "Back to booking",
+      "depositNote": "A non-refundable 35% deposit confirms each appointment. For Cornrows or Sew-in, contact Leslie directly before booking — the price varies with your design."
+    },
+    "catalogue": {
+      "eyebrow": "Inspiration",
+      "title": "CATALOGUE",
+      "subtitle": "Every braid, a signature. Click a style to discover its details.",
+      "all": "All",
+      "viewDetails": "View details",
+      "price": "Price",
+      "from": "From",
+      "deposit": "Deposit (35%)",
+      "depositFrom": "from",
+      "estDuration": "Estimated duration:",
+      "sameFamily": "In the same family",
+      "bookAppt": "Book an appointment",
+      "familyTeaser": "A style caught your eye? Book your chair today.",
+      "fromShort": "from",
+      "onRequest": "On request",
+      "photosSoon": "Photos coming soon",
+      "dmToBook": "Message us to book"
+    },
+    "sizeGuide": {
+      "cta": "Size guide",
+      "title": "Dayo Styles Size Guide"
+    },
+    "policies": {
+      "eyebrow": "Please Read Before Booking",
+      "title": "DAYO STYLES BOOKING POLICIES",
+      "subtitle": "Thank you for choosing Dayo Styles.",
+      "intro": [
+        "At Dayo Styles, every appointment is scheduled with intention and precision to ensure a seamless, professional, and respectful braiding experience. Before booking, please carefully review the policies below.",
+        "Booking an appointment confirms your agreement with all terms listed."
+      ],
+      "sections": [
+        {
+          "heading": "Booking & Confirmation",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "All appointments must be booked in advance.",
+                "An appointment is considered confirmed only after the required deposit has been received.",
+                "Appointments without a deposit will not be held."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Deposit & Payment Policy",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "A 35% non-refundable deposit is required to secure all appointments.",
+                "The deposit is deducted from the total service price."
+              ]
+            },
+            {
+              "kind": "sub",
+              "text": "Accepted Deposit Payment Methods"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "Credit card via the secure booking/payment link.",
+                "E-Transfer for clients without a credit card."
+              ]
+            },
+            {
+              "kind": "p",
+              "text": "Clients wishing to pay by E-Transfer must contact Dayo Styles for payment instructions. An appointment will only be confirmed once the deposit has been received."
+            },
+            {
+              "kind": "sub",
+              "text": "Remaining Balance"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "The remaining balance is due on the day of the appointment.",
+                "The remaining balance is payable in cash.",
+                "E-Transfer for the remaining balance must be requested and approved in advance.",
+                "Clients paying the remaining balance by E-Transfer are responsible for any applicable fees.",
+                "Failure to complete payment will result in refusal of service."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Cancellations & Rescheduling",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Appointments may be cancelled or rescheduled up to 72 hours (3 days) before the scheduled appointment time.",
+                "Rescheduled appointments must be moved to a date within 21 days of the original appointment date.",
+                "Deposits are non-refundable."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Late & No-Show Policy",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Clients may arrive no earlier than 10 minutes before their appointment.",
+                "A grace period of up to 15 minutes is permitted with prior notice.",
+                "Clients arriving between 15 and 30 minutes late with prior notice will incur a $20 late fee.",
+                "Clients arriving between 15 and 30 minutes late without prior notice may have their appointment cancelled at Dayo Styles discretion.",
+                "Arrivals 30 minutes or more late will result in automatic appointment cancellation and forfeiture of the deposit.",
+                "No-shows will result in loss of deposit and possible refusal of future bookings."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Hair Preparation",
+          "blocks": [
+            {
+              "kind": "p",
+              "text": "Dayo Styles does not offer hair washing services."
+            },
+            {
+              "kind": "p",
+              "text": "Clients must arrive with hair that is:"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "Washed",
+                "Fully dried",
+                "Properly blow-dried / stretched",
+                "Free of oils, creams, gels, or product buildup"
+              ]
+            },
+            {
+              "kind": "p",
+              "text": "Clients who arrive unprepared may experience delays, additional fees, or refusal of service."
+            },
+            {
+              "kind": "p",
+              "text": "Deposits remain non-refundable."
+            },
+            {
+              "kind": "p",
+              "text": "A blow-dry service may be available upon request for an additional fee."
+            }
+          ]
+        },
+        {
+          "heading": "Hair Extensions",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Clients are responsible for bringing their own hair extensions unless otherwise stated at the time of booking."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Style Selection",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "The selected hairstyle is final.",
+                "Style changes are not permitted on the day of the appointment.",
+                "Clients are responsible for reviewing the Dayo Styles Size Guide before booking their appointment."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Allergies & Scalp Conditions",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Clients are responsible for informing Dayo Styles of any known allergies, sensitivities, scalp conditions, skin conditions, or medical concerns prior to their appointment.",
+                "By booking an appointment, clients confirm that they have disclosed any relevant information that may affect their service.",
+                "Dayo Styles is not responsible for any allergic reaction, sensitivity, scalp condition, skin condition, or medical issue resulting from information that was not disclosed before the appointment."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Client Conduct & Environment",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "No extra guests or children are permitted unless approved in advance.",
+                "Respectful behavior is required at all times.",
+                "Dayo Styles reserves the right to refuse service if these policies are not respected."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Final Agreement",
+          "blocks": [
+            {
+              "kind": "p",
+              "text": "By booking an appointment with Dayo Styles, you acknowledge that you have read, understood, and agreed to all policies above."
+            },
+            {
+              "kind": "p",
+              "text": "No exceptions will be made."
+            }
+          ]
+        }
+      ],
+      "confirmTitle": "Required Confirmations",
+      "confirmIntro": "Before completing your payment, please confirm the following:",
+      "c1pre": "I have read and agree to Dayo Styles’ ",
+      "c1link": "Booking Policies",
+      "c1post": ".",
+      "c2pre": "I have reviewed the ",
+      "c2link": "Braid Size Guide",
+      "c2post": " and understand that braid counts and row counts are approximate and may vary depending on head size, hair density, and the desired final look.",
+      "c3": "I declare that I have no known allergies, scalp conditions, skin conditions, or medical conditions that may affect my service. I understand that Dayo Styles is not responsible for any reaction resulting from allergies, sensitivities, scalp conditions, or medical conditions that were not disclosed before the appointment.",
+      "c4": "I understand that Dayo Styles does not provide hair extensions. I am responsible for bringing all hair required for my selected service.",
+      "confirmToSee": "Please confirm all four statements above to see availability and book.",
+      "confirmedTitle": "All set!",
+      "confirmedText": "Thank you — choose your date and time below."
+    },
+    "thankYou": {
+      "eyebrow": "Booking confirmed",
+      "title": "THANK YOU",
+      "subtitle": "Your appointment is booked.",
+      "message": "We have received your booking. A confirmation has been sent to your email with all the details. We can’t wait to see you at Dayo Styles.",
+      "backHome": "Back to homepage",
+      "bookAnother": "Book another style"
+    },
+    "footer": {
+      "tagline": "High-end house of braids. Every sitting is a ritual of care and precision.",
+      "quickLinks": "Quick Links",
+      "services": "Services",
+      "tarifs": "Pricing",
+      "booking": "Book",
+      "policies": "Booking Policies",
+      "shop": "Shop",
+      "cart": "Cart",
+      "contact": "Contact",
+      "social": "Social Media",
+      "copyright": "Dayo Styles · House of Braids · © 2026",
+      "signature": "Hand-finished, every time."
+    }
+  },
+  "fr": {
+    "nav": {
+      "home": "Accueil",
+      "services": "Services",
+      "tarifs": "Tarifs",
+      "atelier": "L'Atelier",
+      "catalogue": "Catalogue",
+      "shop": "Boutique",
+      "cart": "Panier",
+      "reserver": "Réserver",
+      "homeAria": "Dayo Styles — Accueil"
+    },
+    "home": {
+      "heroEyebrow": "Maison de tresses · Sur rendez-vous",
+      "heroSubtitle": "L'excellence du tressage, un rituel de soin pour votre couronne.",
+      "ctaBook": "Prendre un Rendez-vous",
+      "ctaServices": "Découvrir nos services",
+      "introTitle": "Le rituel commence par l'écoute.",
+      "introSubtitle": "Une assise est un rituel long-format. Prévoyez la matinée.",
+      "value1Title": "Finition main",
+      "value1Desc": "Chaque tresse posée avec un soin architectural.",
+      "value2Title": "Sur rendez-vous",
+      "value2Desc": "Votre temps est précieux, nous le respectons strictement.",
+      "popularEyebrow": "Populaire",
+      "servicesTitle": "NOS SERVICES",
+      "allServices": "Voir tous les services →",
+      "from": "À partir de",
+      "viewStyle": "Voir le style",
+      "viewCatalogue": "Voir le catalogue",
+      "stylistEyebrow": "La Styliste",
+      "stylistBio": "Plus de dix ans d'expérience dans l'art du tressage. Spécialisée dans les techniques protectrices et les finitions invisibles. Leslie approche chaque tête comme une œuvre d'art unique.",
+      "learnMore": "En savoir plus →",
+      "finalCtaTitle": "PRENDRE RENDEZ-VOUS",
+      "finalCtaSubtitle": "Choisissez votre service. Versez le dépôt. On s'occupe du reste.",
+      "bookNow": "Réserver maintenant",
+      "shopTitle": "Boutique de produits capillaires",
+      "shopSubtitle": "Découvrez nos boucles, extensions et essentiels capillaires pour compléter votre look.",
+      "shopAll": "Voir tous les produits",
+      "shopItemCta": "Voir le produit"
+    },
+    "services": {
+      "eyebrow": "Le Catalogue",
+      "title": "NOS SERVICES",
+      "subtitle": "Knotless. French Curl. Twists. Locs. Cornrows. Finition main, chaque fois.",
+      "from": "à partir de",
+      "startingAt": "dès",
+      "extLength": "Extensions :",
+      "deposit": "Dépôt requis (35%) :",
+      "depositFrom": "dès",
+      "goodToKnow": "Bon à savoir",
+      "bookThisStyle": "Réserver ce style",
+      "addonsTitle": "ADD-ONS / SUPPLÉMENTS",
+      "addons": [
+        {
+          "name": "Boho hair extra",
+          "detail": "/ par bundle supplémentaire (au-delà de 4) · 30min"
+        },
+        {
+          "name": "Blow-dry",
+          "detail": "sur demande · 20min"
+        },
+        {
+          "name": "Extra length",
+          "detail": "au-delà de Waist length · 45min"
+        },
+        {
+          "name": "Curls on sew-in",
+          "detail": "sur demande · 40min"
+        }
+      ]
+    },
+    "tarifs": {
+      "eyebrow": "La Transparence",
+      "title": "TARIFS",
+      "subtitle": "Dépôt de 35 % requis à la réservation pour garantir votre assise.",
+      "colCategory": "Catégorie",
+      "colVariant": "Variante",
+      "colPrice": "Prix (CAD)",
+      "colDeposit": "Dépôt 35%",
+      "colDuration": "Durée",
+      "colExtensions": "Extensions",
+      "noteTitle": "Note importante",
+      "notes": [
+        "Le dépôt de 35 % est exigé pour confirmer chaque rendez-vous.",
+        "Pour Cornrows et Sew-in : prix sur devis, dm avant réservation.",
+        "Les extensions sont fournies par la cliente (sauf mention contraire)."
+      ],
+      "addonsTitle": "Suppléments",
+      "addons": [
+        {
+          "label": "Boho hair extra (par bundle > 4)",
+          "price": "15$"
+        },
+        {
+          "label": "Blow-dry (sur demande)",
+          "price": "25$"
+        },
+        {
+          "label": "Extra length (> Waist)",
+          "price": "30$"
+        },
+        {
+          "label": "Curls on sew-in",
+          "price": "30$"
+        }
+      ],
+      "cta": "Voir le catalogue & réserver"
+    },
+    "styliste": {
+      "eyebrow": "La Signature",
+      "title": "L'ATELIER",
+      "subtitle": "Leslie, ses créations et ses disponibilités.",
+      "quote1": "\"Le tressage est un langage silencieux. C'est une architecture qui respecte la vie du cheveu.\"",
+      "bio": "Diplômée des meilleures écoles de coiffure africaine, Leslie a perfectionné son art pendant une décennie. Sa vision : allier les techniques ancestrales aux tendances contemporaines du luxe.",
+      "quote2": "\"Squeeze in available. Just dm me to confirm.\"",
+      "ctaBook": "Réserver avec Leslie",
+      "availEyebrow": "Sur rendez-vous",
+      "availTitle": "DISPONIBILITÉS",
+      "availSubtitle": "Les horaires d'ouverture de l'atelier de Leslie.",
+      "days": [
+        "Lundi",
+        "Mardi",
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi",
+        "Dimanche"
+      ],
+      "hours": [
+        "17h00 → 23h30",
+        null,
+        "17h00 → 23h30",
+        "17h00 → 23h30",
+        "17h00 → 23h30",
+        "07h00 → 22h00",
+        "07h00 → 19h00"
+      ],
+      "closedLabel": "Fermé",
+      "bufferLabel": "Buffer entre RDV",
+      "bufferValue": "30 min",
+      "minNoticeLabel": "Délai min. de réservation",
+      "minNoticeValue": "24 h",
+      "lastMinute": "Un créneau de dernière minute ? Écrivez-moi en DM, je confirme selon mes disponibilités.",
+      "cta": "Choisir un style & réserver"
+    },
+    "reservation": {
+      "eyebrow": "Le Rituel",
+      "title": "RÉSERVER",
+      "subtitle": "Choisissez votre service, votre date et versez le dépôt. Tout est confirmé en direct.",
+      "yourBooking": "Votre réservation",
+      "styleInterest": "Style qui vous intéresse",
+      "chooseDateBelow": "Choisissez votre date et votre créneau ci-dessous.",
+      "selectSizeFirst": "Sélectionnez d’abord votre taille pour afficher les disponibilités.",
+      "selectInMenu": "Sélectionnez-le ci-dessous dans le menu des services pour finaliser votre réservation.",
+      "customEyebrow": "Réservation sur mesure",
+      "customTextPre": "Pour le style ",
+      "customTextPost": ", le prix varie selon votre design. Contactez Leslie avant de réserver pour confirmer les détails — par email ou téléphone :",
+      "chooseSize": "Choisissez votre taille",
+      "chooseVariant": "Choisissez votre variante",
+      "selectVariantFirst": "Sélectionnez d’abord votre variante pour afficher les disponibilités.",
+      "selectVariantToSeeCal": "Sélectionnez une variante ci-dessus pour voir le calendrier.",
+      "bookingPrefix": "Réservation — ",
+      "selectSizeToSeeCal": "Sélectionnez une taille ci-dessus pour voir le calendrier.",
+      "backToCatalogue": "← Revoir le catalogue",
+      "backToBooking": "Retour à la réservation",
+      "depositNote": "Un dépôt de 35 % non-remboursable confirme chaque rendez-vous. Pour Cornrows ou Sew-in, contactez directement Leslie avant de réserver — le prix varie selon votre design."
+    },
+    "catalogue": {
+      "eyebrow": "L'Inspiration",
+      "title": "CATALOGUE",
+      "subtitle": "Chaque tresse, une signature. Cliquez sur un style pour découvrir ses détails.",
+      "all": "Tous",
+      "viewDetails": "Voir les détails",
+      "price": "Prix",
+      "from": "À partir de",
+      "deposit": "Dépôt (35%)",
+      "depositFrom": "dès",
+      "estDuration": "Durée estimée :",
+      "sameFamily": "Dans la même famille",
+      "bookAppt": "Prendre un rendez-vous",
+      "familyTeaser": "Un style vous fait de l'œil ? Réservez votre fauteuil dès aujourd'hui.",
+      "fromShort": "dès",
+      "onRequest": "Sur demande",
+      "photosSoon": "Photos bientôt disponibles",
+      "dmToBook": "Écrivez-nous pour réserver"
+    },
+    "sizeGuide": {
+      "cta": "Guide des tailles",
+      "title": "Guide des tailles Dayo Styles"
+    },
+    "policies": {
+      "eyebrow": "À lire avant de réserver",
+      "title": "POLITIQUES DE RÉSERVATION DAYO STYLES",
+      "subtitle": "Merci d’avoir choisi Dayo Styles.",
+      "intro": [
+        "Chez Dayo Styles, chaque rendez-vous est planifié avec intention et précision afin d’assurer une expérience de tressage fluide, professionnelle et respectueuse. Avant de réserver, veuillez lire attentivement les politiques ci-dessous.",
+        "Réserver un rendez-vous confirme votre acceptation de l’ensemble des conditions énumérées."
+      ],
+      "sections": [
+        {
+          "heading": "Réservation et confirmation",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Tous les rendez-vous doivent être réservés à l’avance.",
+                "Un rendez-vous est considéré comme confirmé uniquement après réception du dépôt requis.",
+                "Les rendez-vous sans dépôt ne seront pas maintenus."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Dépôt et politique de paiement",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Un dépôt non remboursable de 35 % est requis pour réserver tout rendez-vous.",
+                "Le dépôt est déduit du prix total de la prestation."
+              ]
+            },
+            {
+              "kind": "sub",
+              "text": "Modes de paiement acceptés pour le dépôt"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "Carte de crédit via le lien sécurisé de réservation/paiement.",
+                "Virement Interac (e-Transfer) pour les clientes sans carte de crédit."
+              ]
+            },
+            {
+              "kind": "p",
+              "text": "Les clientes souhaitant payer par virement Interac doivent contacter Dayo Styles pour obtenir les instructions de paiement. Un rendez-vous ne sera confirmé qu’une fois le dépôt reçu."
+            },
+            {
+              "kind": "sub",
+              "text": "Solde restant"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "Le solde restant est dû le jour du rendez-vous.",
+                "Le solde restant est payable en argent comptant.",
+                "Le paiement du solde restant par virement Interac doit être demandé et approuvé à l’avance.",
+                "Les clientes payant le solde restant par virement Interac sont responsables de tous les frais applicables.",
+                "Le défaut de paiement entraînera un refus de service."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Annulations et reports",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Les rendez-vous peuvent être annulés ou reportés jusqu’à 72 heures (3 jours) avant l’heure prévue du rendez-vous.",
+                "Les rendez-vous reportés doivent être déplacés à une date située dans les 21 jours suivant la date initiale du rendez-vous.",
+                "Les dépôts ne sont pas remboursables."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Politique de retard et d’absence",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Les clientes ne peuvent pas arriver plus de 10 minutes avant leur rendez-vous.",
+                "Un délai de grâce pouvant aller jusqu’à 15 minutes est accordé avec préavis.",
+                "Les clientes arrivant entre 15 et 30 minutes en retard avec préavis se verront facturer des frais de retard de 20 $.",
+                "Les clientes arrivant entre 15 et 30 minutes en retard sans préavis peuvent voir leur rendez-vous annulé à la discrétion de Dayo Styles.",
+                "Une arrivée avec 30 minutes de retard ou plus entraînera l’annulation automatique du rendez-vous et la perte du dépôt.",
+                "Les absences entraîneront la perte du dépôt et un possible refus de réservations futures."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Préparation des cheveux",
+          "blocks": [
+            {
+              "kind": "p",
+              "text": "Dayo Styles n’offre pas de service de lavage des cheveux."
+            },
+            {
+              "kind": "p",
+              "text": "Les clientes doivent se présenter avec des cheveux qui sont :"
+            },
+            {
+              "kind": "ul",
+              "items": [
+                "Lavés",
+                "Entièrement séchés",
+                "Correctement séchés au séchoir / étirés",
+                "Exempts d’huiles, de crèmes, de gels ou d’accumulation de produits"
+              ]
+            },
+            {
+              "kind": "p",
+              "text": "Les clientes qui se présentent mal préparées peuvent subir des retards, des frais supplémentaires ou un refus de service."
+            },
+            {
+              "kind": "p",
+              "text": "Les dépôts demeurent non remboursables."
+            },
+            {
+              "kind": "p",
+              "text": "Un service de mise en plis au séchoir peut être offert sur demande, moyennant des frais supplémentaires."
+            }
+          ]
+        },
+        {
+          "heading": "Extensions capillaires",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Les clientes sont responsables d’apporter leurs propres extensions capillaires, sauf indication contraire au moment de la réservation."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Choix du style",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Le style de coiffure sélectionné est définitif.",
+                "Les changements de style ne sont pas permis le jour du rendez-vous.",
+                "Les clientes sont responsables de consulter le Guide des tailles de Dayo Styles avant de réserver leur rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Allergies et affections du cuir chevelu",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Les clientes sont responsables d’informer Dayo Styles de toute allergie connue, sensibilité, affection du cuir chevelu, affection cutanée ou préoccupation médicale avant leur rendez-vous.",
+                "En réservant un rendez-vous, les clientes confirment avoir divulgué tout renseignement pertinent susceptible d’affecter leur prestation.",
+                "Dayo Styles n’est pas responsable de toute réaction allergique, sensibilité, affection du cuir chevelu, affection cutanée ou problème médical résultant de renseignements non divulgués avant le rendez-vous."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Conduite de la cliente et environnement",
+          "blocks": [
+            {
+              "kind": "ul",
+              "items": [
+                "Aucun invité supplémentaire ni enfant n’est admis sauf approbation préalable.",
+                "Un comportement respectueux est exigé en tout temps.",
+                "Dayo Styles se réserve le droit de refuser le service si ces politiques ne sont pas respectées."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Accord final",
+          "blocks": [
+            {
+              "kind": "p",
+              "text": "En réservant un rendez-vous avec Dayo Styles, vous reconnaissez avoir lu, compris et accepté l’ensemble des politiques ci-dessus."
+            },
+            {
+              "kind": "p",
+              "text": "Aucune exception ne sera faite."
+            }
+          ]
+        }
+      ],
+      "confirmTitle": "Confirmations obligatoires",
+      "confirmIntro": "Avant de finaliser votre paiement, merci de confirmer les éléments suivants :",
+      "c1pre": "J’ai lu et j’accepte les ",
+      "c1link": "politiques de réservation",
+      "c1post": " de Dayo Styles.",
+      "c2pre": "J’ai consulté le ",
+      "c2link": "Guide des tailles",
+      "c2post": " et je comprends que le nombre de tresses et de rangées est approximatif et peut varier selon la taille de la tête, la densité des cheveux et le rendu souhaité.",
+      "c3": "Je déclare n’avoir aucune allergie, affection du cuir chevelu, affection cutanée ou condition médicale connue pouvant affecter ma prestation. Je comprends que Dayo Styles n’est pas responsable de toute réaction résultant d’allergies, de sensibilités, d’affections du cuir chevelu ou de conditions médicales non divulguées avant le rendez-vous.",
+      "c4": "Je comprends que Dayo Styles ne fournit pas d’extensions capillaires (mèches). Je suis responsable d’apporter toutes les mèches nécessaires à la prestation choisie.",
+      "confirmToSee": "Merci de confirmer les quatre énoncés ci-dessus pour voir les disponibilités et réserver.",
+      "confirmedTitle": "C’est validé !",
+      "confirmedText": "Merci — choisissez votre date et votre heure ci-dessous."
+    },
+    "thankYou": {
+      "eyebrow": "Réservation confirmée",
+      "title": "MERCI",
+      "subtitle": "Votre rendez-vous est réservé.",
+      "message": "Nous avons bien reçu votre réservation. Une confirmation vous a été envoyée par courriel avec tous les détails. Nous avons hâte de vous accueillir chez Dayo Styles.",
+      "backHome": "Retour à l’accueil",
+      "bookAnother": "Réserver un autre style"
+    },
+    "footer": {
+      "tagline": "Maison de tresses haut de gamme. Chaque assise est un rituel de soin et de précision.",
+      "quickLinks": "Liens Rapides",
+      "services": "Services",
+      "tarifs": "Tarifs",
+      "booking": "Prendre RDV",
+      "policies": "Politiques de réservation",
+      "shop": "Boutique",
+      "cart": "Panier",
+      "contact": "Coordonnées",
+      "social": "Réseaux Sociaux",
+      "copyright": "Dayo Styles · Maison de Tresses · © 2026",
+      "signature": "Finition main, chaque fois."
+    }
+  }
+}

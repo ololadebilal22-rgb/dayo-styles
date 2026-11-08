@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: hsl(33 33% 93%);
+  --color-foreground: hsl(33 33% 9%);
+  --color-card: hsl(33 33% 94%);
+  --color-primary: hsl(43 69% 36%);
+  --color-primary-foreground: #ffffff;
+  --color-secondary: hsl(38 35% 87%);
+  --color-secondary-foreground: hsl(33 33% 9%);
+  --color-ink-400: rgb(123 111 99);
+  --color-ink-500: rgb(61 51 34);
+  --color-ink-600: rgb(48 40 26);
+  --color-ink-700: rgb(28 22 15);
+  --color-ink-800: rgb(17 13 8);
+  --color-maison-cream: rgb(246 239 231);
+  --color-maison-berry: rgb(110 35 48);
+  --color-maison-gold: rgb(156 121 29);
+  --color-gold-soft: #e3c16a;
+  --color-paper: #ffffff;
+  --font-body: "Manrope", sans-serif;
+  --font-headline: "Cinzel", serif;
+  --font-editorial: "Cormorant Garamond", serif;
+  --tracking-crown: 0.18em;
+  --radius: 0px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-body);
+    line-height: 1.625;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-headline);
+  }
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+@utility cinzel-label {
+  font-family: var(--font-headline);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--color-primary);
+}
+
+@utility section-spacing {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  @media (min-width: 768px) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+}
+
+@utility gold-hairline {
+  position: relative;
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    width: 100%;
+    background: var(--color-primary);
+    opacity: 0.3;
+  }
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility hero-shadow {
+  text-shadow: 0 2px 18px rgba(17, 13, 8, 0.6);
+}

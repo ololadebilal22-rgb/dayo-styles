@@ -1,0 +1,29 @@
+DAYO STYLES — HOMEPAGE VIDEO INSTALLED
+
+The uploaded WhatsApp video is now included in the homepage hero.
+
+VIDEO FILES
+- public/videos/hero.mp4: 1920 x 1080 landscape (16:9), approximately 15 seconds.
+  The supplied portrait footage is kept sharp in the center; a darkened, blurred
+  enlargement fills the left and right sides. This preserves the hairstyle instead
+  of cropping off the top and bottom to force a landscape crop.
+- public/videos/hero-mobile.mp4: 576 x 1024 portrait (9:16), approximately 15 seconds.
+  This is the supplied video encoded for mobile playback.
+
+RESPONSIVE BEHAVIOUR
+- Screens wider than 767px use hero.mp4.
+- Screens 767px wide or narrower use hero-mobile.mp4.
+- Both versions autoplay muted, loop, and play inline.
+- The page uses object-fit: cover to fill the hero area, with the existing
+  /hero_background.webp image as a poster/fallback while video loads or when
+  reduced-motion preferences are enabled.
+- If the mobile video cannot load, the page falls back to the landscape version.
+
+PAYMENT FIX
+The undefined `service` references inside startBookingCheckout() now correctly use
+the existing `style` variable. The project TypeScript check passed after that fix.
+
+DEPLOYMENT NOTE
+The private .env file is intentionally not included. Restore your existing secure
+environment variables in your deployment provider. Never publish Stripe secret keys
+or database credentials.

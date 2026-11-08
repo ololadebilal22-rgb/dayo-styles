@@ -1,0 +1,1461 @@
+{
+  "catalogue": [
+    {
+      "slug": "regular-knotless",
+      "name": "Regular Knotless Braids",
+      "filterLabel": "Regular Knotless",
+      "family": "knotless",
+      "cover": "/catalogue/regular-knotless-1.jpg",
+      "gallery": [
+        "/catalogue/regular-knotless-1.jpg",
+        "/catalogue/regular-knotless-2.jfif",
+        "/catalogue/regular-knotless-3.jfif",
+        "/catalogue/regular-knotless-4.jfif"
+      ],
+      "tagline": {
+        "en": "The house signature, without tension.",
+        "fr": "La signature de la maison, sans tension."
+      },
+      "description": {
+        "en": "Regular Knotless Braids are one of the most popular protective styles, loved for their lightweight feel and natural appearance. Installed using the knotless technique, they create a sleek, seamless finish that’s comfortable to wear and easy to maintain.",
+        "fr": "Les Regular Knotless Braids comptent parmi les styles protecteurs les plus populaires, appréciées pour leur légèreté et leur apparence naturelle. Réalisées avec la technique knotless, elles offrent un fini lisse et sans couture, confortable à porter et facile à entretenir."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes a curly finish or straight ends.",
+          "fr": "Le prix inclut une finition bouclée (curly) ou des pointes lisses (straight ends)."
+        },
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 225,
+          "duration": "5h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 200,
+          "duration": "4h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 180,
+          "duration": "4h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Large",
+            "fr": "Large"
+          },
+          "price": 150,
+          "duration": "3h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 150,
+      "extensions": {
+        "en": "4 packs braiding hair 52inch for Small and Small-Medium, 3 packs for Medium and Large (provided by the client)",
+        "fr": "4 paquets de mèches à tresser 52 pouces pour Small et Small-Medium, 3 paquets pour Medium et Large (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "boho-knotless",
+      "name": "Boho Knotless Braids",
+      "filterLabel": "Boho Knotless",
+      "family": "knotless",
+      "cover": "/catalogue/boho-knotless-1.jfif",
+      "gallery": [
+        "/catalogue/boho-knotless-1.jfif",
+        "/catalogue/boho-knotless-2.jfif",
+        "/catalogue/boho-knotless-3.jfif",
+        "/catalogue/boho-knotless-4.jfif"
+      ],
+      "tagline": {
+        "en": "Curly strands that soften the braid.",
+        "fr": "Des mèches bouclées qui adoucissent la tresse."
+      },
+      "description": {
+        "en": "Boho Knotless Braids combine the lightweight comfort of knotless braids with soft, flowing curls for an effortlessly glamorous look. Designed to add volume, texture, and movement, they’re perfect for clients who love a soft, feminine finish.",
+        "fr": "Les Boho Knotless Braids allient le confort léger des tresses knotless à des boucles souples et fluides pour un look glamour sans effort. Conçues pour ajouter du volume, de la texture et du mouvement, elles sont parfaites pour les clientes qui aiment un fini doux et féminin."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes installation of up to 4 bundles of boho hair provided by the client.",
+          "fr": "Inclut l’installation de jusqu’à 4 bundles de cheveux boho fournis par la cliente."
+        },
+        {
+          "en": "Pricing includes a curly finish. Upgrade to straight ends for +$20.",
+          "fr": "Le prix inclut une finition bouclée. Passez aux pointes lisses (straight ends) pour +20$."
+        },
+        {
+          "en": "Additional bundles may incur an extra fee.",
+          "fr": "Des bundles supplémentaires peuvent entraîner des frais additionnels."
+        },
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 250,
+          "duration": "6h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch + 2 packs boho hair (4 bundles) 18inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces + 2 paquets de mèches boho (4 bundles) 18 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 225,
+          "duration": "5h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch + 2 packs boho hair (4 bundles) 18inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces + 2 paquets de mèches boho (4 bundles) 18 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 200,
+          "duration": "4h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch + 2 packs boho hair (4 bundles) 18inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces + 2 paquets de mèches boho (4 bundles) 18 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Large",
+            "fr": "Large"
+          },
+          "price": 180,
+          "duration": "3h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch + 2 packs boho hair (4 bundles) 18inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces + 2 paquets de mèches boho (4 bundles) 18 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 180,
+      "extensions": {
+        "en": "4 packs braiding hair 52inch for Small and Small-Medium, 3 packs for Medium and Large, plus 2 packs boho hair (4 bundles) 18inch (provided by the client)",
+        "fr": "4 paquets de mèches à tresser 52 pouces pour Small et Small-Medium, 3 paquets pour Medium et Large, plus 2 paquets de mèches boho (4 bundles) 18 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      },
+      "note": {
+        "en": "Extra boho bundle (beyond 4): +$15.",
+        "fr": "Bundle boho supplémentaire (au-delà de 4) : +15$."
+      }
+    },
+    {
+      "slug": "french-curl",
+      "name": "French Curl Braids",
+      "filterLabel": "French Curl",
+      "family": "french-curl",
+      "cover": "/catalogue/french-curl-1.jfif",
+      "gallery": [
+        "/catalogue/french-curl-1.jfif",
+        "/catalogue/french-curl-2.jfif",
+        "/catalogue/french-curl-3.jfif",
+        "/catalogue/french-curl-4.jfif",
+        "/catalogue/french-curl-5.jfif"
+      ],
+      "tagline": {
+        "en": "A structured, bright and crisp curl.",
+        "fr": "Une boucle structurée, lumineuse et nette."
+      },
+      "description": {
+        "en": "French Curl Braids combine sleek braids with soft curls at the ends for a timeless, elegant finish. Perfect for adding graceful movement while maintaining a polished, sophisticated look.",
+        "fr": "Les French Curl Braids associent des tresses lisses à de douces boucles aux pointes pour un fini intemporel et élégant. Parfaites pour ajouter un mouvement gracieux tout en conservant un look soigné et sophistiqué."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 245,
+          "duration": "6h",
+          "extensions": {
+            "en": "9 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "9 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 220,
+          "duration": "5h",
+          "extensions": {
+            "en": "9 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "9 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 200,
+          "duration": "4h",
+          "extensions": {
+            "en": "8 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "8 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Large",
+            "fr": "Large"
+          },
+          "price": 175,
+          "duration": "3h",
+          "extensions": {
+            "en": "8 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "8 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 175,
+      "extensions": {
+        "en": "9 bundles of French curl hair 22inch for Small and Small-Medium, 8 bundles for Medium and Large (provided by the client)",
+        "fr": "9 bundles de mèches French Curl 22 pouces pour Small et Small-Medium, 8 bundles pour Medium et Large (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "boho-french-curl",
+      "name": "Bohemian French Curl Braids",
+      "filterLabel": "Boho French Curl",
+      "family": "french-curl",
+      "cover": "/catalogue/boho-french-curl-1.jfif",
+      "gallery": [
+        "/catalogue/boho-french-curl-1.jfif",
+        "/catalogue/boho-french-curl-2.jfif",
+        "/catalogue/boho-french-curl-3.jfif",
+        "/catalogue/boho-french-curl-4.jfif"
+      ],
+      "tagline": {
+        "en": "Maximum volume and movement.",
+        "fr": "Le maximum de volume et de mouvement."
+      },
+      "description": {
+        "en": "Bohemian French Curl Braids feature soft French curls woven throughout the style for extra texture, volume, and movement. The result is a fuller, glamorous look with an effortlessly luxurious finish.",
+        "fr": "Les Bohemian French Curl Braids intègrent de douces French curls sur toute la coiffure pour plus de texture, de volume et de mouvement. Le résultat : un look plus fourni et glamour, au fini luxueux et sans effort."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 270,
+          "duration": "7h",
+          "extensions": {
+            "en": "10 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "10 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 245,
+          "duration": "6h",
+          "extensions": {
+            "en": "8 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "8 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 225,
+          "duration": "5h",
+          "extensions": {
+            "en": "8 bundles of French curl hair 22inch (provided by the client)",
+            "fr": "8 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 225,
+      "extensions": {
+        "en": "10 bundles of French curl hair 22inch for Small, 8 bundles for Small-Medium and Medium (provided by the client)",
+        "fr": "10 bundles de mèches French Curl 22 pouces pour Small, 8 bundles pour Small-Medium et Medium (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "bob-french-curl",
+      "name": "Boho French Curl Bob",
+      "filterLabel": "Bob French Curl",
+      "family": "french-curl",
+      "cover": "/catalogue/bob-french-curl-1.jfif",
+      "gallery": [
+        "/catalogue/bob-french-curl-1.jfif",
+        "/catalogue/bob-french-curl-2.jfif",
+        "/catalogue/bob-french-curl-3.jfif",
+        "/catalogue/bob-french-curl-4.jfif"
+      ],
+      "tagline": {
+        "en": "The curly bob — short and chic.",
+        "fr": "Le carré bouclé, court et chic."
+      },
+      "description": {
+        "en": "Boho French Curl Bob is a chic bob-length style featuring sleek braids and soft French curls. Lightweight, modern, and elegant, it’s perfect for clients who love a stylish protective look.",
+        "fr": "Le Boho French Curl Bob est un style chic à la longueur carré (bob), composé de tresses lisses et de douces French curls. Léger, moderne et élégant, il est parfait pour les clientes qui aiment un look protecteur stylé."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes Small-Medium braids.",
+          "fr": "Inclut des tresses Small-Medium."
+        },
+        {
+          "en": "Upgrade to Small back braids for +$30.",
+          "fr": "Passez à des tresses Small à l’arrière pour +30$."
+        },
+        {
+          "en": "Pricing includes jaw-shoulder length.",
+          "fr": "Le prix inclut la longueur mâchoire-épaule (jaw-shoulder)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "One size",
+            "fr": "Taille unique"
+          },
+          "price": 200,
+          "duration": "6h"
+        }
+      ],
+      "priceFrom": 200,
+      "extensions": {
+        "en": "9 bundles of French curl hair 22inch (provided by the client)",
+        "fr": "9 bundles de mèches French Curl 22 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Jaw to Shoulder",
+        "fr": "Jaw to Shoulder"
+      }
+    },
+    {
+      "slug": "boho-knotless-bob",
+      "name": "Boho Knotless Bob",
+      "filterLabel": "Knotless Bob",
+      "family": "knotless",
+      "cover": "/catalogue/boho-knotless-bob-1.jfif",
+      "gallery": [
+        "/catalogue/boho-knotless-bob-1.jfif",
+        "/catalogue/boho-knotless-bob-2.jfif",
+        "/catalogue/boho-knotless-bob-3.jfif",
+        "/catalogue/boho-knotless-bob-4.jfif"
+      ],
+      "tagline": {
+        "en": "Knotless in a bohemian bob.",
+        "fr": "Le knotless en version carré bohème."
+      },
+      "description": {
+        "en": "Boho Knotless Bob combines lightweight knotless braids with soft boho curls for a trendy bob-length finish. This style offers beautiful texture, movement, and effortless everyday elegance.",
+        "fr": "Le Boho Knotless Bob associe des tresses knotless légères à de douces boucles boho pour un fini tendance à la longueur carré (bob). Ce style offre une belle texture, du mouvement et une élégance décontractée au quotidien."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes Small-Medium braids.",
+          "fr": "Inclut des tresses Small-Medium."
+        },
+        {
+          "en": "Includes installation of up to 2 bundles of boho hair provided by the client.",
+          "fr": "Inclut l’installation de jusqu’à 2 bundles de cheveux boho fournis par la cliente."
+        },
+        {
+          "en": "Pricing includes a curly finish and straight ends.",
+          "fr": "Le prix inclut une finition bouclée et des pointes lisses."
+        },
+        {
+          "en": "Pricing includes jaw-shoulder length.",
+          "fr": "Le prix inclut la longueur mâchoire-épaule (jaw-shoulder)."
+        },
+        {
+          "en": "Upgrade to Small back braids for +$30.",
+          "fr": "Passez à des tresses Small à l’arrière pour +30$."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Regular bob",
+            "fr": "Regular bob"
+          },
+          "price": 175,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 175,
+      "extensions": {
+        "en": "3 packs braiding hair 42inch + 1 pack boho hair 18inch (provided by the client)",
+        "fr": "3 paquets de mèches à tresser 42 pouces + 1 paquet de mèches boho 18 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Jaw to Shoulder",
+        "fr": "Jaw to Shoulder"
+      }
+    },
+    {
+      "slug": "bora-bora",
+      "name": "Bora Bora",
+      "filterLabel": "Bora Bora",
+      "family": "knotless",
+      "cover": "/catalogue/bora-bora-1.jfif",
+      "gallery": [
+        "/catalogue/bora-bora-1.jfif",
+        "/catalogue/bora-bora-2.jfif",
+        "/catalogue/bora-bora-3.jfif",
+        "/catalogue/bora-bora-4.jfif"
+      ],
+      "tagline": {
+        "en": "Escape: curly volume and endless length.",
+        "fr": "L'évasion : volume bouclé et longueur infinie."
+      },
+      "description": {
+        "en": "Bora Bora Braids feature an abundance of soft curls for maximum volume, texture, and movement. Inspired by tropical beauty, this glamorous style is perfect for clients who love bold, luxurious hairstyles.",
+        "fr": "Les Bora Bora Braids offrent une abondance de boucles souples pour un maximum de volume, de texture et de mouvement. Inspiré de la beauté tropicale, ce style glamour est parfait pour les clientes qui aiment les coiffures audacieuses et luxueuses."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes installation of up to 6 bundles of boho hair provided by the client.",
+          "fr": "Inclut l’installation de jusqu’à 6 bundles de cheveux boho fournis par la cliente."
+        },
+        {
+          "en": "Pricing includes a curly finish. Upgrade to straight ends for +$20.",
+          "fr": "Le prix inclut une finition bouclée. Passez aux pointes lisses (straight ends) pour +20$."
+        },
+        {
+          "en": "Additional bundles may incur an extra fee.",
+          "fr": "Des bundles supplémentaires peuvent entraîner des frais additionnels."
+        },
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 275,
+          "duration": "7h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch + 3 packs boho hair (6 bundles) 18inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces + 3 paquets de mèches boho (6 bundles) 18 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 250,
+          "duration": "6h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch + 3 packs boho hair (6 bundles) 18inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces + 3 paquets de mèches boho (6 bundles) 18 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 225,
+          "duration": "5h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch + 3 packs boho hair (6 bundles) 18inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces + 3 paquets de mèches boho (6 bundles) 18 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 225,
+      "extensions": {
+        "en": "4 packs braiding hair 52inch for Small and Small-Medium, 3 packs for Medium, plus 3 packs boho hair (6 bundles) 18inch (provided by the client)",
+        "fr": "4 paquets de mèches à tresser 52 pouces pour Small et Small-Medium, 3 paquets pour Medium, plus 3 paquets de mèches boho (6 bundles) 18 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "fulani",
+      "name": "Fulani Braids",
+      "filterLabel": "Fulani",
+      "family": "fulani",
+      "cover": "/catalogue/fulani-1.jfif",
+      "gallery": [
+        "/catalogue/fulani-1.jfif",
+        "/catalogue/fulani-2.jfif",
+        "/catalogue/fulani-3.jfif",
+        "/catalogue/fulani-4.jfif"
+      ],
+      "tagline": {
+        "en": "Graphic cornrows — heritage and modernity.",
+        "fr": "Des cornrows graphiques, héritage et modernité."
+      },
+      "description": {
+        "en": "Fulani Braids combine signature front cornrows with individual braids at the back for a timeless look that blends tradition with modern elegance.",
+        "fr": "Les Fulani Braids associent des cornrows signature à l’avant à des tresses individuelles à l’arrière, pour un look intemporel qui mêle tradition et élégance moderne."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes Small-Medium or Medium back braids.",
+          "fr": "Inclut des tresses arrière Small-Medium ou Medium."
+        },
+        {
+          "en": "Includes Mid-Back to Waist length.",
+          "fr": "Inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        },
+        {
+          "en": "Choose between curly or straight ends at no additional cost.",
+          "fr": "Choisissez entre des pointes bouclées ou lisses, sans frais supplémentaires."
+        },
+        {
+          "en": "Upgrade to Small back braids for +$30.",
+          "fr": "Passez à des tresses Small à l’arrière pour +30$."
+        },
+        {
+          "en": "Upgrade to a Flip-Over style for +$25.",
+          "fr": "Passez au style Flip-Over pour +25$."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Without Boho",
+            "fr": "Sans Boho"
+          },
+          "price": 185,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 185,
+      "extensions": {
+        "en": "4 packs braiding hair 52inch (provided by the client)",
+        "fr": "4 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "boho-fulani",
+      "name": "Boho Fulani",
+      "filterLabel": "Boho Fulani",
+      "family": "fulani",
+      "cover": "/catalogue/boho-fulani-1.jfif",
+      "gallery": [
+        "/catalogue/boho-fulani-1.jfif",
+        "/catalogue/boho-fulani-2.jfif",
+        "/catalogue/boho-fulani-3.jfif",
+        "/catalogue/boho-fulani-4.jfif"
+      ],
+      "tagline": {
+        "en": "The Fulani layout, softened by curls.",
+        "fr": "Le tracé Fulani, adouci par des boucles."
+      },
+      "description": {
+        "en": "Boho Fulani Braids blend traditional Fulani cornrows with soft boho curls for added texture, movement, and dimension. A beautiful balance of classic artistry and modern bohemian style.",
+        "fr": "Les Boho Fulani Braids mêlent les cornrows Fulani traditionnels à de douces boucles boho pour plus de texture, de mouvement et de dimension. Un bel équilibre entre art classique et style bohème moderne."
+      },
+      "goodToKnow": [
+        {
+          "en": "Includes Small-Medium or Medium back braids.",
+          "fr": "Inclut des tresses arrière Small-Medium ou Medium."
+        },
+        {
+          "en": "Includes Mid-Back to Waist length.",
+          "fr": "Inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        },
+        {
+          "en": "Includes installation of up to 4 bundles of boho hair provided by the client.",
+          "fr": "Inclut l’installation de jusqu’à 4 bundles de cheveux boho fournis par la cliente."
+        },
+        {
+          "en": "Pricing includes a curly finish. Upgrade to straight ends for +$20.",
+          "fr": "Le prix inclut une finition bouclée. Passez aux pointes lisses (straight ends) pour +20$."
+        },
+        {
+          "en": "Upgrade to Small back braids for +$30.",
+          "fr": "Passez à des tresses Small à l’arrière pour +30$."
+        },
+        {
+          "en": "Upgrade to a Flip-Over style for +$25.",
+          "fr": "Passez au style Flip-Over pour +25$."
+        },
+        {
+          "en": "Additional bundles may incur an extra fee.",
+          "fr": "Des bundles supplémentaires peuvent entraîner des frais additionnels."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "With Boho",
+            "fr": "Avec Boho"
+          },
+          "price": 200,
+          "duration": "5h"
+        }
+      ],
+      "priceFrom": 200,
+      "extensions": {
+        "en": "3 packs braiding hair 52inch + 2 packs boho hair 18inch (provided by the client)",
+        "fr": "3 paquets de mèches à tresser 52 pouces + 2 paquets de mèches boho 18 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "box-braids",
+      "name": "Box Braids (Traditional)",
+      "filterLabel": "Box Braids",
+      "family": "box",
+      "cover": "/catalogue/box-braids-1.jfif",
+      "gallery": [
+        "/catalogue/box-braids-1.jfif",
+        "/catalogue/box-braids-2.jfif",
+        "/catalogue/box-braids-3.jfif",
+        "/catalogue/box-braids-4.jfif"
+      ],
+      "tagline": {
+        "en": "The timeless classic — clean and structured.",
+        "fr": "Le grand classique intemporel, net et structuré."
+      },
+      "description": {
+        "en": "Box Braids are a timeless protective style loved for their durability, versatility, and clean finish. Installed with precise parting and consistent braid sizing, they offer a polished look that’s perfect for everyday wear.",
+        "fr": "Les Box Braids sont un style protecteur intemporel, apprécié pour leur durabilité, leur polyvalence et leur fini net. Réalisées avec des séparations précises et une taille de tresse régulière, elles offrent un look soigné, parfait pour le quotidien."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes a curly finish or straight ends.",
+          "fr": "Le prix inclut une finition bouclée (curly) ou des pointes lisses (straight ends)."
+        },
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 210,
+          "duration": "5h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 185,
+          "duration": "4h",
+          "extensions": {
+            "en": "4 packs braiding hair 52inch (provided by the client)",
+            "fr": "4 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 170,
+          "duration": "4h",
+          "extensions": {
+            "en": "3 packs braiding hair 52inch (provided by the client)",
+            "fr": "3 paquets de mèches à tresser 52 pouces (fournies par la cliente)"
+          }
+        }
+      ],
+      "priceFrom": 170,
+      "extensions": {
+        "en": "4 packs braiding hair 52inch for Small and Small-Medium, 3 packs for Medium (provided by the client)",
+        "fr": "4 paquets de mèches à tresser 52 pouces pour Small et Small-Medium, 3 paquets pour Medium (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "cornrows",
+      "name": "Cornrows",
+      "filterLabel": "Cornrows",
+      "family": "fulani",
+      "cover": "/catalogue/cornrows-1.jfif",
+      "gallery": [
+        "/catalogue/cornrows-1.jfif",
+        "/catalogue/cornrows-2.jfif",
+        "/catalogue/cornrows-3.jfif",
+        "/catalogue/cornrows-4.jfif",
+        "/catalogue/cornrows-5.jfif"
+      ],
+      "tagline": {
+        "en": "Custom designs, close to the scalp.",
+        "fr": "Le dessin sur-mesure, collé au cuir chevelu."
+      },
+      "description": {
+        "en": "Cornrows are fully customizable to match your preferred style, from simple straight-back braids to detailed, creative designs. Perfect for a sleek, low-maintenance look or as the foundation for other protective styles.",
+        "fr": "Les Cornrows sont entièrement personnalisables selon le style souhaité, des simples tresses collées vers l’arrière aux designs créatifs et détaillés. Parfaites pour un look épuré et facile à entretenir, ou comme base pour d’autres styles protecteurs."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing varies based on the number of braids and design complexity.",
+          "fr": "Le prix varie selon le nombre de tresses et la complexité du design."
+        },
+        {
+          "en": "Please contact us before booking for a personalized quote.",
+          "fr": "Veuillez nous contacter avant de réserver pour un devis personnalisé."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "price": 90,
+          "duration": "2h"
+        }
+      ],
+      "priceFrom": 90,
+      "quote": true,
+      "contactOnly": true,
+      "extensions": {
+        "en": "1 pack braiding hair 52inch (provided by the client)",
+        "fr": "1 paquet de mèches à tresser 52 pouces (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Waist length",
+        "fr": "Waist length"
+      },
+      "note": {
+        "en": "DM before booking — price varies with the number of braids and the design.",
+        "fr": "DM avant de réserver — le prix varie selon le nombre de tresses et le design."
+      }
+    },
+    {
+      "slug": "jayda-wayda",
+      "name": "Jayda Wadya",
+      "filterLabel": "Jayda Wadya",
+      "family": "fulani",
+      "cover": "/catalogue/jayda-wayda-1.jfif",
+      "gallery": [
+        "/catalogue/jayda-wayda-1.jfif",
+        "/catalogue/jayda-wayda-2.jfif",
+        "/catalogue/jayda-wayda-3.jfif",
+        "/catalogue/jayda-wayda-4.jfif"
+      ],
+      "tagline": {
+        "en": "Cornrows in front, free curls in back.",
+        "fr": "Cornrows devant, boucles libres derrière."
+      },
+      "description": {
+        "en": "Jayda Wadya features detailed front braiding paired with a seamless sew-in or crochet installation for a bold, modern finish. This trendy style blends precision and elegance, making it perfect for clients who love statement hairstyles.",
+        "fr": "Le Jayda Wadya associe un tressage avant détaillé à une pose sew-in ou crochet sans couture pour un fini audacieux et moderne. Ce style tendance mêle précision et élégance, parfait pour les clientes qui aiment les coiffures qui font sensation."
+      },
+      "goodToKnow": [
+        {
+          "en": "Available as Crochet or Sew-In.",
+          "fr": "Disponible en Crochet ou Sew-In."
+        },
+        {
+          "en": "Pricing varies based on the selected installation method.",
+          "fr": "Le prix varie selon la méthode de pose choisie."
+        },
+        {
+          "en": "All lengths are included in the service price.",
+          "fr": "Toutes les longueurs sont incluses dans le prix du service."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Crochet",
+            "fr": "Crochet"
+          },
+          "price": 160,
+          "duration": "3h"
+        },
+        {
+          "label": {
+            "en": "By Sew-in",
+            "fr": "By Sew-in"
+          },
+          "price": 175,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 160,
+      "chooseVariant": true,
+      "extensions": {
+        "en": "Wig hair (Sew-In) or crochet hair (Crochet) (provided by the client)",
+        "fr": "Mèches à tissage (Sew-In) ou mèches crochet (Crochet) (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Any length",
+        "fr": "Toute longueur"
+      }
+    },
+    {
+      "slug": "soft-locs",
+      "name": "Soft Locs",
+      "filterLabel": "Soft Locs",
+      "family": "twist",
+      "cover": "/catalogue/soft-locs-1.jfif",
+      "gallery": [
+        "/catalogue/soft-locs-1.jfif",
+        "/catalogue/soft-locs-2.jfif",
+        "/catalogue/soft-locs-3.jfif",
+        "/catalogue/soft-locs-4.jfif"
+      ],
+      "tagline": {
+        "en": "Supple locs with a natural drape.",
+        "fr": "Des locs souples au tombé naturel."
+      },
+      "description": {
+        "en": "Soft Locs offer the beauty of faux locs with a lightweight, natural feel. Designed for comfort and effortless elegance, they create a soft, natural-looking finish with beautiful movement.",
+        "fr": "Les Soft Locs offrent la beauté des faux locs avec une sensation légère et naturelle. Conçues pour le confort et une élégance sans effort, elles créent un fini doux et naturel, avec un beau mouvement."
+      },
+      "goodToKnow": [
+        {
+          "en": "All lengths are included in the service price.",
+          "fr": "Toutes les longueurs sont incluses dans le prix du service."
+        },
+        {
+          "en": "Pricing is based on the selected size.",
+          "fr": "Le prix dépend de la taille sélectionnée."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 185,
+          "duration": "5h"
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 175,
+          "duration": "4h"
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 165,
+          "duration": "3h"
+        }
+      ],
+      "priceFrom": 165,
+      "extensions": {
+        "en": "Twist hair + soft locs (provided by the client)",
+        "fr": "Mèches twist + soft locs (fournies par la cliente)"
+      },
+      "length": {
+        "en": "All length",
+        "fr": "All length"
+      }
+    },
+    {
+      "slug": "passion-twist",
+      "name": "Passion Twist",
+      "filterLabel": "Passion Twist",
+      "family": "twist",
+      "cover": "/catalogue/passion-twist-1.jfif",
+      "gallery": [
+        "/catalogue/passion-twist-1.jfif",
+        "/catalogue/passion-twist-2.jfif",
+        "/catalogue/passion-twist-3.jfif",
+        "/catalogue/passion-twist-4.jfif"
+      ],
+      "tagline": {
+        "en": "A bohemian twist — soft and curly.",
+        "fr": "Une torsade bohème, douce et bouclée."
+      },
+      "description": {
+        "en": "Passion Twists feature soft, springy twists with a lightweight, bohemian-inspired finish. Their natural texture and effortless movement make them perfect for an elegant everyday look.",
+        "fr": "Les Passion Twists présentent de douces torsades souples au fini léger d’inspiration bohème. Leur texture naturelle et leur mouvement sans effort les rendent parfaites pour un look élégant au quotidien."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 220,
+          "duration": "5h"
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 200,
+          "duration": "4h"
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 180,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 180,
+      "extensions": {
+        "en": "Passion Twist hair (provided by the client)",
+        "fr": "Mèches Passion Twist (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "kinky-twist",
+      "name": "Kinky Twist",
+      "filterLabel": "Kinky Twist",
+      "family": "twist",
+      "cover": "/catalogue/kinky-twist-1.jfif",
+      "gallery": [
+        "/catalogue/kinky-twist-1.jfif",
+        "/catalogue/kinky-twist-2.jfif",
+        "/catalogue/kinky-twist-3.jfif",
+        "/catalogue/kinky-twist-4.jfif"
+      ],
+      "tagline": {
+        "en": "A textured twist, full of character.",
+        "fr": "La torsade texturée, pleine de caractère."
+      },
+      "description": {
+        "en": "Kinky Twists recreate the look and texture of natural Afro hair for a soft, full, and beautifully natural finish. Lightweight and versatile, they’re perfect for effortless everyday styling.",
+        "fr": "Les Kinky Twists recréent l’aspect et la texture des cheveux afro naturels pour un fini doux, fourni et magnifiquement naturel. Légères et polyvalentes, elles sont parfaites pour un coiffage quotidien sans effort."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes shoulder to mid-back length.",
+          "fr": "Le prix inclut la longueur épaule à milieu du dos (shoulder to mid-back)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 225,
+          "duration": "6h"
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 205,
+          "duration": "5h"
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 185,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 185,
+      "extensions": {
+        "en": "Kinky Twist hair (provided by the client)",
+        "fr": "Mèches Kinky Twist (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Shoulder to Mid-back",
+        "fr": "Shoulder to Mid-back"
+      }
+    },
+    {
+      "slug": "marley-twist",
+      "name": "Marley Twist",
+      "filterLabel": "Marley Twist",
+      "family": "twist",
+      "cover": "/catalogue/marley-twist-1.jfif",
+      "gallery": [
+        "/catalogue/marley-twist-1.jfif",
+        "/catalogue/marley-twist-2.jfif",
+        "/catalogue/marley-twist-3.jfif",
+        "/catalogue/marley-twist-4.jfif"
+      ],
+      "tagline": {
+        "en": "The Marley twist — dense and long-lasting.",
+        "fr": "La torsade Marley, dense et longue durée."
+      },
+      "description": {
+        "en": "Marley Twists offer a rich, textured finish with a bold yet natural appearance. Full, lightweight, and versatile, they’re a timeless protective style designed for long-lasting wear.",
+        "fr": "Les Marley Twists offrent un fini riche et texturé, à l’apparence audacieuse mais naturelle. Fournies, légères et polyvalentes, elles constituent un style protecteur intemporel conçu pour une tenue longue durée."
+      },
+      "goodToKnow": [
+        {
+          "en": "Pricing includes a curly finish or straight ends.",
+          "fr": "Le prix inclut une finition bouclée (curly) ou des pointes lisses (straight ends)."
+        },
+        {
+          "en": "Pricing includes Mid-Back to Waist length.",
+          "fr": "Le prix inclut la longueur milieu du dos à la taille (Mid-Back to Waist)."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 230,
+          "duration": "6h"
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 210,
+          "duration": "5h"
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 190,
+          "duration": "4h"
+        }
+      ],
+      "priceFrom": 190,
+      "extensions": {
+        "en": "Marley Twist hair (provided by the client)",
+        "fr": "Mèches Marley Twist (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Mid-Back to Waist",
+        "fr": "Mid-Back to Waist"
+      }
+    },
+    {
+      "slug": "sew-in",
+      "name": "Sew-In",
+      "filterLabel": "Sew-In",
+      "family": "sew-in",
+      "cover": "/catalogue/sew-in-1.jfif",
+      "gallery": [
+        "/catalogue/sew-in-1.jfif",
+        "/catalogue/sew-in-2.jfif",
+        "/catalogue/sew-in-3.jfif",
+        "/catalogue/sew-in-4.jfif"
+      ],
+      "tagline": {
+        "en": "Couture sew-in — straight or curly.",
+        "fr": "Le tissage couture, lisse ou bouclé."
+      },
+      "description": {
+        "en": "A neat sew-in placed over your cornrows, with your own wig hair. The price depends on the type and design — message us before booking.",
+        "fr": "Un sew-in soigné posé sur vos cornrows, avec vos propres mèches à tissage. Le prix dépend du type et du design souhaités — écrivez-nous avant de réserver."
+      },
+      "sizes": [
+        {
+          "label": {
+            "en": "From",
+            "fr": "À partir de"
+          },
+          "price": 150,
+          "duration": "3h"
+        }
+      ],
+      "priceFrom": 150,
+      "quote": true,
+      "contactOnly": true,
+      "extensions": {
+        "en": "Wig hair (provided by the client)",
+        "fr": "Mèches à tissage (fournies par la cliente)"
+      },
+      "length": {
+        "en": "Based on design",
+        "fr": "Selon le design"
+      },
+      "note": {
+        "en": "DM before booking — price varies with the type and design of the sew-in.",
+        "fr": "DM avant de réserver — le prix varie selon le type et le design du sew-in."
+      }
+    },
+    {
+      "slug": "alicia-keys-braids",
+      "name": "Alicia Keys Braids",
+      "filterLabel": "Alicia Keys",
+      "family": "fulani",
+      "cover": "/catalogue/alicia-keys-braids-1.jfif",
+      "gallery": [
+        "/catalogue/alicia-keys-braids-1.jfif",
+        "/catalogue/alicia-keys-braids-2.jfif",
+        "/catalogue/alicia-keys-braids-3.jfif",
+        "/catalogue/alicia-keys-braids-4.jfif"
+      ],
+      "tagline": {
+        "en": "Freestyle cornrows, made to your inspiration.",
+        "fr": "Des cornrows freestyle, sur mesure selon votre inspiration."
+      },
+      "description": {
+        "en": "Alicia Keys Braids feature freestyle cornrows inspired by your preferred look, creating a unique style that’s both trendy and protective. Whether you have a reference photo or want a custom design, each set is tailored to complement your features.",
+        "fr": "Les Alicia Keys Braids proposent des cornrows freestyle inspirés du look de votre choix, pour un style unique à la fois tendance et protecteur. Que vous ayez une photo de référence ou souhaitiez un design sur mesure, chaque pose est adaptée à vos traits."
+      },
+      "goodToKnow": [
+        {
+          "en": "Freestyle design customized to your inspiration.",
+          "fr": "Design freestyle personnalisé selon votre inspiration."
+        },
+        {
+          "en": "Includes 12 to 16 freestyle cornrows, depending on the selected design.",
+          "fr": "Inclut 12 à 16 cornrows freestyle, selon le design choisi."
+        },
+        {
+          "en": "Includes one row of knotless braids at the back for a seamless, natural-looking finish.",
+          "fr": "Inclut une rangée de tresses knotless à l’arrière pour un fini naturel et sans couture."
+        },
+        {
+          "en": "Braiding hair is included in the service price.",
+          "fr": "Les mèches à tresser sont incluses dans le prix du service."
+        },
+        {
+          "en": "Includes Waist length.",
+          "fr": "Inclut la longueur taille (Waist)."
+        },
+        {
+          "en": "Available without boho or with boho hair.",
+          "fr": "Disponible sans boho ou avec boho."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Without Boho",
+            "fr": "Without Boho"
+          },
+          "price": 175,
+          "duration": "3h"
+        },
+        {
+          "label": {
+            "en": "With Boho",
+            "fr": "With Boho"
+          },
+          "price": 185,
+          "duration": "3h"
+        }
+      ],
+      "priceFrom": 175,
+      "chooseVariant": true,
+      "extensions": {
+        "en": "Braiding hair included in the service price",
+        "fr": "Mèches à tresser incluses dans le prix du service"
+      },
+      "length": {
+        "en": "Waist length",
+        "fr": "Waist length"
+      }
+    },
+    {
+      "slug": "miracle-knot",
+      "name": "Miracle Knot",
+      "filterLabel": "Miracle Knot",
+      "family": "twist",
+      "cover": "/catalogue/miracle-knot-1.jpg",
+      "gallery": [
+        "/catalogue/miracle-knot-1.jpg",
+        "/catalogue/miracle-knot-2.jfif",
+        "/catalogue/miracle-knot-3.jfif"
+      ],
+      "tagline": {
+        "en": "Ultra-light volume, minimal tension.",
+        "fr": "Un volume ultra-léger, sans tension sur le cuir chevelu."
+      },
+      "description": {
+        "en": "Miracle Knot creates a soft, full, and effortlessly glamorous look using only Miracle Knot strands installed directly onto your natural hair — no traditional braiding hair required. This ultra-lightweight protective style delivers beautiful volume and movement while minimizing tension on the scalp, making it perfect for clients who want a fuller look without the added weight.",
+        "fr": "Le Miracle Knot offre un look doux, fourni et glamour sans effort, en utilisant uniquement des mèches Miracle Knot installées directement sur cheveu naturel — sans mèche à tresser traditionnelle. Ce style protecteur ultra-léger apporte du volume et du mouvement tout en minimisant la tension sur le cuir chevelu, parfait pour les clientes qui veulent un look fourni sans le poids habituel."
+      },
+      "goodToKnow": [
+        {
+          "en": "Miracle Knot strands are not included and must be provided by the client.",
+          "fr": "Les mèches Miracle Knot ne sont pas incluses et doivent être fournies par la cliente."
+        },
+        {
+          "en": "Available using either the Feed-In Method or the Crochet Method.",
+          "fr": "Disponible en méthode Feed-In ou méthode Crochet."
+        },
+        {
+          "en": "Both installation methods are offered at the same price. Simply let us know your preferred method when booking.",
+          "fr": "Les deux méthodes de pose sont proposées au même prix. Indiquez-nous simplement votre méthode préférée lors de la réservation."
+        },
+        {
+          "en": "Small: Minimum 250 strands required.",
+          "fr": "Small : minimum 250 mèches requises."
+        },
+        {
+          "en": "Small-Medium: Minimum 200 strands required.",
+          "fr": "Small-Medium : minimum 200 mèches requises."
+        },
+        {
+          "en": "Medium: Minimum 150 strands required.",
+          "fr": "Medium : minimum 150 mèches requises."
+        }
+      ],
+      "sizes": [
+        {
+          "label": {
+            "en": "Small",
+            "fr": "Small"
+          },
+          "price": 190,
+          "duration": "5h"
+        },
+        {
+          "label": {
+            "en": "Small-Medium",
+            "fr": "Small-Medium"
+          },
+          "price": 175,
+          "duration": "4h"
+        },
+        {
+          "label": {
+            "en": "Medium",
+            "fr": "Medium"
+          },
+          "price": 160,
+          "duration": "3h"
+        }
+      ],
+      "priceFrom": 160,
+      "extensions": {
+        "en": "Miracle Knot strands (provided by the client)",
+        "fr": "Mèches Miracle Knot (fournies par la cliente)"
+      },
+      "length": {
+        "en": "All length",
+        "fr": "All length"
+      }
+    }
+  ],
+  "filters": [
+    {
+      "key": "all",
+      "label": {
+        "en": "All",
+        "fr": "Tous"
+      }
+    },
+    {
+      "key": "knotless",
+      "label": {
+        "en": "Knotless",
+        "fr": "Knotless"
+      }
+    },
+    {
+      "key": "french-curl",
+      "label": {
+        "en": "French Curl",
+        "fr": "French Curl"
+      }
+    },
+    {
+      "key": "fulani",
+      "label": {
+        "en": "Fulani & Cornrows",
+        "fr": "Fulani & Cornrows"
+      }
+    },
+    {
+      "key": "twist",
+      "label": {
+        "en": "Twists & Locs",
+        "fr": "Twists & Locs"
+      }
+    },
+    {
+      "key": "box",
+      "label": {
+        "en": "Box Braids",
+        "fr": "Box Braids"
+      }
+    },
+    {
+      "key": "sew-in",
+      "label": {
+        "en": "Sew-In",
+        "fr": "Sew-In"
+      }
+    }
+  ],
+  "depositRate": 0.35,
+  "site": {
+    "email": "dayooyin143@gmail.com",
+    "phone": "+1 (416) 723-9464",
+    "phoneHref": "tel:+14167239464",
+    "address": {
+      "street": "2020 Sheppard Ave W",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": "M3N 1A3"
+    },
+    "social": {
+      "instagram": "https://www.instagram.com/dayostylesintoronto",
+      "tiktok": "https://www.tiktok.com/@dayostylesintoronto"
+    }
+  },
+  "bookingIds": {
+    "regular-knotless::Small": "Fqi02cLJUbfGPKGaHJka",
+    "regular-knotless::Small-Medium": "NFiyYZgJfbfACm6NR6uO",
+    "regular-knotless::Medium": "d8OKmxX0gGZ270LwCIUQ",
+    "regular-knotless::Large": "JhaciJrLRphwZoNoFdtp",
+    "boho-knotless::Small": "pDbuKIp2Vfu7WHKU0wks",
+    "boho-knotless::Small-Medium": "GDMWIZyQNA2EcUV2TD6Y",
+    "boho-knotless::Medium": "ww9wc8WqUfr3eS8TQ8XT",
+    "boho-knotless::Large": "DmHSb80O7wmNseuIkr3B",
+    "french-curl::Small": "gqrvq3Ju4p5mdrRviWXH",
+    "french-curl::Small-Medium": "mfn8X9WnZLdwMQxvUGXO",
+    "french-curl::Medium": "NKd7Kowq7jotT8LXpHhl",
+    "french-curl::Large": "6fsE0pJ0hLl0xo7YoB3U",
+    "boho-french-curl::Small": "RyfHdYJajLrPDwghvnzF",
+    "boho-french-curl::Small-Medium": "0PNRCt6qknXl50D49Kgf",
+    "boho-french-curl::Medium": "B86n3ob9qXSLGc0FOeT4",
+    "bob-french-curl": "iTvaQBBHytEcuU0wyshA",
+    "boho-knotless-bob": "jRkcwtjXuuqvr4WdG0fR",
+    "fulani": "WjThqW0xdJHc19fAveYC",
+    "boho-fulani": "gv2fp2PtGBw70eB1esBz",
+    "cornrows": "4Aqcx3jDagQFB9O3CJPQ",
+    "soft-locs::Small": "igq3OHUtqZUtx9S8U7GJ",
+    "soft-locs::Small-Medium": "5T4xAUzozc71QFAq5zBy",
+    "soft-locs::Medium": "DRz2B5X9jT5gHDLRhPpx",
+    "passion-twist::Small": "KJGZTmw5HlgSkw0t1O3Q",
+    "passion-twist::Small-Medium": "zyR6qlHGsLeajRCR9d2u",
+    "passion-twist::Medium": "WZsBtKSbwxBklxFnETmG",
+    "kinky-twist::Small": "Kz2GtQ3q6PLV99dERYQX",
+    "kinky-twist::Small-Medium": "3iXgRH525Q7thXhuMaCC",
+    "kinky-twist::Medium": "TxSPm80L3y9MWGq7skzJ",
+    "marley-twist::Small": "bW01AZmkiWaWUnATN3Iq",
+    "marley-twist::Small-Medium": "SBigbVGakM30Lrxs3QjG",
+    "marley-twist::Medium": "SPUuyGRCDsnJq8AuJjSi",
+    "bora-bora::Small": "I7vTSsAuOLTOT0foj67p",
+    "bora-bora::Small-Medium": "fiOLgYjqpqu0ncojrCv3",
+    "bora-bora::Medium": "mpcOjUhjp6wOGpFhD108",
+    "box-braids::Small": "ZBs52gFnt8Hpx9z98Wb1",
+    "box-braids::Small-Medium": "wPVzXNzh9POdI1g2Y0lu",
+    "box-braids::Medium": "TArmeHupJyE8NCg753Tc",
+    "jayda-wayda::Crochet": "4n5dnV9F2IyQuJeyJx7G",
+    "jayda-wayda::By Sew-in": "bRI6cVAr17KGjEqSToIo",
+    "alicia-keys-braids::Without Boho": "wKacH5qteOGW66JBkhYs",
+    "alicia-keys-braids::With Boho": "zsGK3YMn7R48NMTOqiCk",
+    "miracle-knot::Small": "wIDft8U6behwg3KJVMR8",
+    "miracle-knot::Small-Medium": "bsVWWUHyNKRUpbie6CJE",
+    "miracle-knot::Medium": "ySCpBsAXbiin1VvcOfk2"
+  }
+}
